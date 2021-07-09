@@ -12,6 +12,8 @@ To run the all the notebooks, you have to set up the analytical infrastructure a
 
 ## Setting up
 
+For easy access to the analytical notebooks, you can use Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenTrustFabric/WP3_UseCases/HEAD)
+
 We use Python <code>virtualenv</code> to manage the analytical environment for the three use cases.
 
 The following procedure applies directly to Linux and MacOS. For Windowds, you have to adapt the commands accordingly. Consider installing [Anaconda](https://www.anaconda.com/).
