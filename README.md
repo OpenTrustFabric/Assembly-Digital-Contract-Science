@@ -1,3 +1,5 @@
+<img src="https://secureservercdn.net/160.153.137.210/86v.eb1.myftpupload.com/wp-content/uploads/2020/09/Logos-3.png?time=1625746717" align="right" width="120"/>
+
 # WP3_UseCases
 
 This repository includes a set of analytical notebooks that demonstrate **digital contract science**.
@@ -35,3 +37,5 @@ We use Graphistry as the primary visualization tool. To enable Graphistry:
 1. Create an account.
 2. Create a copy of config_template.json and name it config.json. 
 3. Include Graphistry username and password in config.json. 
+
+For more information about Graphistry and authentication, see  [Running Graphistry & Voilà on Binder](https://github.com/graphistry/pygraphistry/issues/240).
