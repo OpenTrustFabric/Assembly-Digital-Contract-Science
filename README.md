@@ -18,21 +18,21 @@ The following procedure applies directly to Linux and MacOS. For Windowds, you h
 
 Once you have cloned this repository, create a dedicated virtual environment for your local project:
 
-        python3 -m venv env
+	python3 -m venv env
 
 Activate the environment:
 
-		source env/bin/activate
+	source env/bin/activate
 
 Following virtual environment practices, you can install the needed modules and libraries all in one go:
 
-		pip install -r requirements.txt
+	pip install -r requirements.txt
 		
 Now we should be ready to fire off Jupyter. Run the server and the analytical environment should open up in your browser:
 
-		jupyter notebook
+	jupyter notebook
 
-We use Graphistry as the primary visualization tool. To enable Graphistry:
+We use [Graphistry](https://www.graphistry.com/) as the primary network visualization and exploration tool. To enable Graphistry:
 
 1. Create an account.
 2. Create a copy of config_template.json and name it config.json. 
