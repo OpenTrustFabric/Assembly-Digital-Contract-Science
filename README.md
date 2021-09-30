@@ -1,6 +1,6 @@
 <img src="https://secureservercdn.net/160.153.137.210/86v.eb1.myftpupload.com/wp-content/uploads/2020/09/Logos-3.png?time=1625746717" align="right" width="120"/>
 
-# WP3 Use Cases
+# Assembly: Digital contract science
 
 This repository includes a set of analytical notebooks that demonstrate **digital contract science**.
 
